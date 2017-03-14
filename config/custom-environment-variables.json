@@ -1,0 +1,7 @@
+{
+  "db_user": "WATZDPRICE_SITEMAP_DB_USER",
+  "db_password": "WATZDPRICE_SITEMAP_DB_PASSWORD",
+  "db_host": "WATZDPRICE_SITEMAP_DB_HOST",
+  "db_name": "WATZDPRICE_SITEMAP_DB_NAME",
+  "path": "WATZDPRICE_SITEMAP_PATH"
+}
