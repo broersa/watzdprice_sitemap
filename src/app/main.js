@@ -38,7 +38,6 @@ module.exports = {
       sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
       sitemap = sitemap + '<url><loc>https://www.watzdprice.nl/</loc></url>';
       sitemap = sitemap + '<url><loc>https://www.watzdprice.nl/about</loc></url>';
-      sitemap = sitemap + '</urlset>';
       endSitemap(sitemap, path, 0);
       var c = 0;
       var smc = 1;
